@@ -1,0 +1,19 @@
+﻿  소스의 유효성을 검사하는 중
+  소스를 '192.168.0.13'(으)로 원격으로 복사하는 중
+  아키텍처의 유효성을 검사하는 중
+  아키텍처의 유효성을 검사하는 중
+  원격 빌드를 시작하는 중
+  소스를 컴파일하는 중:
+  main.cpp
+/usr/local/include/opencv4/opencv2/core/base.hpp(399,45): warning : conversion to ‘int’ from ‘__gnu_cxx::__enable_if<true, double>::__type {aka double}’ may alter its value [-Wfloat-conversion]
+/usr/local/include/opencv4/opencv2/core/base.hpp(401,45): warning : conversion to ‘int’ from ‘__gnu_cxx::__enable_if<true, double>::__type {aka double}’ may alter its value [-Wfloat-conversion]
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(219,21): warning : conversion to ‘float’ from ‘int’ may alter its value [-Wconversion]
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(219,21): warning :      return i - (i > value);
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(219,21): warning :                      ^~~~~
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(232,21): warning : conversion to ‘float’ from ‘int’ may alter its value [-Wconversion]
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(232,21): warning :      return i + (i < value);
+/usr/local/include/opencv4/opencv2/core/fast_math.hpp(232,21): warning :                      ^~~~~
+/usr/local/include/opencv4/opencv2/core/operations.hpp(383,46): warning : conversion to ‘float’ from ‘unsigned int’ may alter its value [-Wconversion]
+/usr/local/include/opencv4/opencv2/core/operations.hpp(384,82): warning : conversion to ‘double’ from ‘uint64 {aka long long unsigned int}’ may alter its value [-Wconversion]
+  개체를 연결하는 중
+  Camera.vcxproj -> O:\Visual_Studio_2017\source\repos\Camera\Camera\bin\ARM\Debug\Camera.out

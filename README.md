@@ -1,2 +1,2 @@
 # Camera_Recognition
-Raspberry Pi B+ Camera test (only source, not library)
+Raspberry Pi B+ Camera test (VS in Windows connect B+ project)

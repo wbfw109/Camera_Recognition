@@ -1,0 +1,5 @@
+﻿  소스의 유효성을 검사하는 중
+  소스를 '192.168.0.13'(으)로 원격으로 복사하는 중
+  아키텍처의 유효성을 검사하는 중
+  아키텍처의 유효성을 검사하는 중
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(172,5): error : 현재 프로젝트 아키텍처 'x64'이(가) 원격 시스템 아키텍처 'ARM'('ARM')과(와) 호환되지 않습니다. Configuration Manager에서 프로젝트 아키텍처를 'ARM'(으)로 전환하세요.

@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/Camera/bin/ARM/Debug/Camera.out" -Wl,--no-undefined -Wl,-L/usr/local/lib -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/Camera/../Camera/obj/ARM/Debug/main.o -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_video -lopencv_videoio
